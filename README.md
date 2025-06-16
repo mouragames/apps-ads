@@ -1,0 +1,1 @@
+apps ads text
